@@ -4,3 +4,5 @@ npm start
 
 *Wrap Electron*
 npm install electron --save-dev
+npm install cross-env --save-dev
+npm run electron-dev
